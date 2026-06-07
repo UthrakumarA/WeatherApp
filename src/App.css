@@ -16,7 +16,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 80vh;
+}
+
+#h1 {
+  padding-top: 40px;
 }
 
 .weather-container {

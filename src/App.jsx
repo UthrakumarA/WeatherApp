@@ -50,6 +50,7 @@ function App() {
 };
   return (
     <div className="container" style={{backgroundImage: `url(${bgImage})`}}>
+    <center><u><h1 id="h1">Welcome To My Website</h1></u></center>
     <div className="app">
     <div className="weather-container">
         <u><h1>Weather App</h1></u>
